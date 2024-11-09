@@ -17,9 +17,7 @@ body {
 h1 {
   color: #333;
   font-size: 24px;
-  text-align: center;
-}
-
+  text-align: center
 h2 {
   color: #555;
   font-size: 20px;
@@ -34,9 +32,9 @@ ul, ol {
 li {
   margin-bottom: 8px;
 }
-
-
----
-
-This code provides a simple, clean design for showcasing your pasta recipe on a webpage. Enjoy!
+. recipe-image {
+                width: 100%;
+                border-radius: 8px;
+                margin-bottom: 20px;
+}
 
