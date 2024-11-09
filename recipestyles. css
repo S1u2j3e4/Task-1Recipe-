@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f8f8;
+  margin: 0;
+  padding: 0;
+}
+
+.recipe-container {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+  color: #333;
+  font-size: 24px;
+  text-align: center;
+}
+
+h2 {
+  color: #555;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+ul, ol {
+  color: #444;
+  line-height: 1.6;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+
+---
+
+This code provides a simple, clean design for showcasing your pasta recipe on a webpage. Enjoy!
+
